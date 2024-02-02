@@ -1,0 +1,67 @@
+# Archivos generados por el sistema operativo
+.DS_Store
+
+# Carpetas generadas por Node.js
+node_modules/
+
+# Archivos de registro
+logs/
+*.log
+
+# Carpeta de construcción
+build/
+
+# Archivos de configuración locales
+.env
+
+# Dependencias específicas del entorno
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Dependencias de paquetes
+.pnpm
+/yarn-error.log
+npm-debug.log
+
+# Carpeta de cobertura generada por herramientas de prueba
+coverage/
+
+# Dependencias específicas de IDE o editor
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+
+# Archivos temporales
+*.bak
+*.swp
+*~.nib
+*.log
+*.orig
+*.rej
+*.tmp
+
+# Archivos de compilación
+*.db
+*.class
+*.jar
+
+# Carpetas de compilación
+bin/
+gen/
+
+# Dependencias específicas de lenguaje de programación
+*.o
+*.out
+*.pyc
+*.dll
+*.exe
+
+# Archivos de configuración para diferentes sistemas operativos
+Thumbs.db
+Desktop.ini
+
+# Archivos de historial de comandos en el shell
+.history
